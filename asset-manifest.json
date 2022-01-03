@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JessicaSarai98/React-TODOs/static/css/main.eabd7c95.css",
+    "main.js": "/JessicaSarai98/React-TODOs/static/js/main.396dfa77.js",
+    "static/media/check.svg": "/JessicaSarai98/React-TODOs/static/media/check.03ec240765eb375ade984c417de6ace7.svg",
+    "index.html": "/JessicaSarai98/React-TODOs/index.html",
+    "static/media/icono.svg": "/JessicaSarai98/React-TODOs/static/media/icono.aa6fb95690bd0fe2fe12cee18937a5e5.svg",
+    "static/media/delete.svg": "/JessicaSarai98/React-TODOs/static/media/delete.76fedeb576158a6b6f8c70c7ec5ce363.svg",
+    "main.eabd7c95.css.map": "/JessicaSarai98/React-TODOs/static/css/main.eabd7c95.css.map",
+    "main.396dfa77.js.map": "/JessicaSarai98/React-TODOs/static/js/main.396dfa77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eabd7c95.css",
+    "static/js/main.396dfa77.js"
+  ]
+}
