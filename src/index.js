@@ -27,3 +27,7 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
+/*ReactDOM.createPortal(
+  <App />,
+  document.getElementById('modal') renderizando en el nodo modal 
+);*/
